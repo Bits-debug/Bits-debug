@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello!
 
 My name is DevLogger and I'm a developer. Currently working on my bot. You can find me on discord.
 
