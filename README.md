@@ -5,7 +5,6 @@ My name is DevLogger and I'm a developer. Currently working on my bot. You can f
 ### Connect with me:
 
 [<img align="left" alt="DevLogger | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<iframe src="https://discord.com/widget?id=902109737976471583&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 <br />
 
